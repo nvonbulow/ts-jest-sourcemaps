@@ -1,4 +1,4 @@
-import { throwError } from '@src/test/example';
+import { throwError } from './test/example';
 
 describe('SourceMapping', () => {
   it('returns the correct line number', async () => {
